@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361854244365",
+    "project_id": "grabaguardandr",
+    "storage_bucket": "grabaguardandr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361854244365:android:831e8521e5d76d4a6ca744",
+        "android_client_info": {
+          "package_name": "com.example.grabaguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2cPe2fo2PlKXKAanuOPdFHaUxm01lE2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
